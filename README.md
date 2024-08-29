@@ -1,6 +1,6 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, I'm Young!</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, I'm Chloe!</h1>
 
-<p> Welcome to my page! <br> I'm Young Jun, a passionate back-end developer and a senior at Duke University studying Computer Science and Statistics. 
+<p> Welcome to my page! <br> I'm Chloe Yun, a passionate software developer/ data analyst and a graduate student at University of Pennsylvania studying Computer Science.
 <br>
 <!-- I love technology and am interested in making it more approachable and exciting. -->
 Oh! There is one thing I very love, <b>FEEDBACK!</b> </p>
@@ -12,11 +12,11 @@ Oh! There is one thing I very love, <b>FEEDBACK!</b> </p>
   <img align="left" alt="Young's LinkedIN" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 -->
-<a href="https://www.instagram.com/younghoo_jun/">
+<a href="https://www.instagram.com/jjinchloe/">
   <img align="left" alt="Young's Instagram" width="20px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 </a>
-<a href = "mailto: yj112@duke.edu">
+<a href = "mailto: chloeyun@seas.upenn.edu">
   <img align="left" alt="Email icon" width="23px" src="https://d338t8kmirgyke.cloudfront.net/icons/icon_pngs/000/007/873/original/email.png" />
 </a> <br>
 
@@ -37,7 +37,7 @@ Oh! There is one thing I very love, <b>FEEDBACK!</b> </p>
 <br>
 
 
-<!-- Add this line above your blog post section to create a horizontal line -->
+<!-- Add this line above your blog post section to create a horizontal line 
 ---
 
 ### 🎨 Excited to share my first blog post on AI-Generated Art! 🚀
@@ -46,7 +46,7 @@ I've recently published a blog post about AI-generated art, specifically creatin
 
 **[Read the blog post here](https://youngjun8.wordpress.com/2023/03/22/ai-generated-art-creating-geometric-abstract-artwork-with-stylegan2-and-pytorch/)**
 
-
+-->
 
 
 <!--
