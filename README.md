@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, I'm Chloe!</h1>
 
-<p> Welcome to my page! <br> I'm Chloe Yun, a passionate software developer/ data analyst and a graduate student at University of Pennsylvania studying Computer Science.
+<p> Welcome to my page! <br> I'm Chloe Yun, a passionate software developer and a graduate student at University of Pennsylvania studying Computer Science.
 <br>
 <!-- I love technology and am interested in making it more approachable and exciting. -->
 Oh! There is one thing I very love, <b>FEEDBACK!</b> </p>
