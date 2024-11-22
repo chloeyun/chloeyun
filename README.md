@@ -16,9 +16,8 @@ Oh! There is one thing I very love, <b>FEEDBACK!</b> </p>
   <img align="left" alt="Young's Instagram" width="20px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 </a>
-<a href = "mailto: chloeyun@seas.upenn.edu">
-  <img align="left" alt="Email icon" width="23px" src="https://d338t8kmirgyke.cloudfront.net/icons/icon_pngs/000/007/873/original/email.png" />
-</a> <br>
+
+<br>
 
 ### Things I code with: 
 <img align="left" alt="Java" width="17px" src="https://upload.wikimedia.org/wikipedia/uk/2/2e/Java_Logo.svg" style="padding-right:10px;" />
